@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/exepaul/Desktop/model_save/modelprescience.tflearn"
+all_model_checkpoint_paths: "/Users/exepaul/Desktop/model_save/modelprescience.tflearn"
